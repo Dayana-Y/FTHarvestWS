@@ -1,0 +1,13 @@
+C:\repo\WebServices\ftharvestws\FTHarvestWS\obj\Release\netcoreapp3.1\PubTmp\Out\FTHarvestWS.exe
+C:\repo\WebServices\ftharvestws\FTHarvestWS\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\repo\WebServices\ftharvestws\FTHarvestWS\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\repo\WebServices\ftharvestws\FTHarvestWS\obj\Release\netcoreapp3.1\PubTmp\Out\FTHarvestWS.dll
+C:\repo\WebServices\ftharvestws\FTHarvestWS\obj\Release\netcoreapp3.1\PubTmp\Out\FTHarvestWS.deps.json
+C:\repo\WebServices\ftharvestws\FTHarvestWS\obj\Release\netcoreapp3.1\PubTmp\Out\FTHarvestWS.runtimeconfig.json
+C:\repo\WebServices\ftharvestws\FTHarvestWS\obj\Release\netcoreapp3.1\PubTmp\Out\FTHarvestWS.pdb
+C:\repo\WebServices\ftharvestws\FTHarvestWS\obj\Release\netcoreapp3.1\PubTmp\Out\System.Data.SqlClient.dll
+C:\repo\WebServices\ftharvestws\FTHarvestWS\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\repo\WebServices\ftharvestws\FTHarvestWS\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\repo\WebServices\ftharvestws\FTHarvestWS\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\repo\WebServices\ftharvestws\FTHarvestWS\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\repo\WebServices\ftharvestws\FTHarvestWS\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
